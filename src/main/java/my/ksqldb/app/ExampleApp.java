@@ -30,6 +30,6 @@ public class ExampleApp {
         //Send requests with the client by following the other examples
         List<TopicInfo> topicInfos = client.listTopics().get();
         topicInfos.forEach(System.out::println);
-        //System.out.println("it works");
+       
     }
 }

@@ -1,4 +1,4 @@
-package com.tylerhawkins.examples;
+package my.ksqldb.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
